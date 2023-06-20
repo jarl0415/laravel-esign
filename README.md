@@ -1,10 +1,10 @@
-# chiefgroup-esign
+# jarl-esign
 esign API v2.
 
 ## 安装
 
 ```
-$ composer require chiefgroup/laravel-esign
+$ composer require jarl/laravel-esign
 ```
 
 ## 配置文件
