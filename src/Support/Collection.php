@@ -330,15 +330,15 @@ class Collection implements ArrayAccess, Countable, IteratorAggregate, JsonSeria
         $this->forget($key);
     }
 
-    /**
-     * var_export.
-     *
-     * @return array
-     */
-    public function __set_state()
-    {
-        return $this->all();
-    }
+//    /**
+//     * var_export.
+//     *
+//     * @return array
+//     */
+//    public function __set_state()
+//    {
+//        return $this->all();
+//    }
 
     /**
      * (PHP 5 &gt;= 5.0.0)<br/>
